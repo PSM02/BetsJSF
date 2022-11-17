@@ -15,3 +15,4 @@ public class Bean {
 	extendedIterator<Event> gertaerak=facadeBL.getEvents(new Date());
 
 }
+//proba
